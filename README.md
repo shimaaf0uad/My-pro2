@@ -50,3 +50,39 @@ This project allowed me to:
 
 ## 📂 Folder Structure
 
+---
+
+## 📸 Screenshots
+
+| Mobile View | Desktop View |
+|-------------|---------------|
+| ![Mobile](images/mobile.jpg) | ![Desktop](images/desktop.jpg) |
+
+> 💡 *Make sure to replace these images with your actual screenshots from the project and name them accordingly inside the `/images` folder.*
+
+---
+
+## 👨‍💻 Author
+
+**Shimaa Fouad**  
+💼 Front-End Developer 
+🔗 [GitHub Profile](https://github.com/shimaaf0uad)  
+📧 Email: shimaa.fouad002@gmail.com  
+🌐 Portfolio: [https://github.com/shimaaf0uad](#)
+
+---
+
+## 🙌 Show Some Love
+
+If you liked this project:
+
+- ⭐ Star the repo  
+- 🍴 Fork it  
+- 🗣️ Share it  
+- 💬 Drop your feedback  
+
+---
+
+<p align="center">
+  Made with ❤️ and a sprinkle of CSS magic.
+</p>
