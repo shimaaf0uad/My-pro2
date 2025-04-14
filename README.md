@@ -1,7 +1,7 @@
 # 🍽️ Gourmet au Catering Website
 
 <p align="center">
-  <img src="images/preview.jpg" alt="Gourmet au Catering Website Preview" width="80%">
+  <img src="img/preview.jpg" alt="Gourmet au Catering Website Preview" width="80%">
 </p>
 
 Welcome to **Gourmet au Catering** — a stylish, responsive catering website built using pure **HTML5** and **CSS3**.  
