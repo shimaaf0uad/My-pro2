@@ -48,20 +48,6 @@ This project allowed me to:
 
 ---
 
-## 📂 Folder Structure
-
----
-
-## 📸 Screenshots
-
-| Mobile View | Desktop View |
-|-------------|---------------|
-| ![Mobile](images/mobile.jpg) | ![Desktop](images/desktop.jpg) |
-
-> 💡 *Make sure to replace these images with your actual screenshots from the project and name them accordingly inside the `/images` folder.*
-
----
-
 ## 👨‍💻 Author
 
 **Shimaa Fouad**  
