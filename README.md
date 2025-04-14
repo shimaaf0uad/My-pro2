@@ -50,11 +50,10 @@ This project allowed me to:
 
 ## 👨‍💻 Author
 
-**Shimaa Fouad**  
-💼 Front-End Developer 
-🔗 [GitHub Profile](https://github.com/shimaaf0uad)  
+**Eng.Shimaa Fouad**   
+💼 Front-End Developer | Web Developer 
+🔗 [GitHub: shimaaf0uad](https://github.com/shimaaf0uad)  
 📧 Email: shimaa.fouad002@gmail.com  
-🌐 Portfolio: [https://github.com/shimaaf0uad](#)
 
 ---
 
