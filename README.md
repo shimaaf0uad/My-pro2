@@ -58,7 +58,7 @@ This project allowed me to:
 
 📧 Email: shimaa.fouad002@gmail.com  
 
-🌐 Portfolio: [https://www.linkedin.com/in/shimaafouad](#) 
+🌐 Portfolio LinkedIn]:(https://www.linkedin.com/in/shimaafouad/)(#)
 
 ---
 
