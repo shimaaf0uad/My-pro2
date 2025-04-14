@@ -51,8 +51,11 @@ This project allowed me to:
 ## 👨‍💻 Author
 
 **Eng.Shimaa Fouad**   
+
 💼 Front-End Developer | Web Developer 
+
 🔗 [GitHub: shimaaf0uad](https://github.com/shimaaf0uad)  
+
 📧 Email: shimaa.fouad002@gmail.com  
 
 ---
